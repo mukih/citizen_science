@@ -1,16 +1,16 @@
 # Citizen science open data analysis
-Here we do data analysis for citizen science projects with the open data https://www.inaturalist.org/projects/city-nature-challenge-2019
-The project is in progress and discussions between @Liubov Tupikina, Muki Haklay, CRI.
+Here we do data analysis for citizen science projects with the open data. It is focused on a time series of the City Nature Challenge - a city scale activity were people use the same app (iNaturalist) over a weekend, to collect pictures of wildlife and wild plants around them. The project is now go for 5 years, and it started growing in 2017 in the US, and 2018 internationally. Here are the links to the main pages: https://www.inaturalist.org/projects/city-nature-challenge-2017 https://www.inaturalist.org/projects/city-nature-challenge-2018 https://www.inaturalist.org/projects/city-nature-challenge-2019 https://www.inaturalist.org/projects/city-nature-challenge-2020. It is possible to identify a cohort of US cities with 4 years or data, and international comparison with 3 years of data. 
 
+The project is in progress and discussions between @Liubov Tupikina, Muki Haklay, CRI.
 
 # Reseach Questions
 
-RQ1 Can we identify macroscopic laws of citizen science projects so that long term dynamics is different?
+RQ1 Can we identify macroscopic laws of citizen science projects so that long term dynamics is different? 
 
-RQ2 How communities are growing in time, what drives their growth if not preferential attachment or exogeneous factors?
+RQ2 How communities are growing in time, what drives their growth if not preferential attachment or exogeneous factors? 
 
-RQ3 If we are looking at City Nature Challenge data - we have now  data for San Francisco, LA, and London, which now have 4 or 3 years time series, and it is interesting to look how the power law like distribution is emerging? 
-It's interesting that it is similar for SF and LA and the pattern that they have in year 4, London has in year 3. 
+RQ3 If we are looking at City Nature Challenge data - e.g. for San Francisco, LA, and London, which now have 4 or 3 years time series, how the power law like distribution is emerging over time - this can be explored over the period of each CNC event (so how it emerged over 3-4 days) and over the years? 
+For example, in terms of % distribution of contribution, it is similar for SF and LA and the pattern that they have in year 4, London has in year 3. Will other cities have different pattern? 
 
 RQ4 (a) Are their differences in data collection pattern in each year and between years? Are there also emerging pattern over time in a location? 
 (b) Are there also emerging pattern over time in a location? 
